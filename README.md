@@ -29,7 +29,7 @@ This project implements a network solution for MapleTech, connecting their offic
 - @Sunnahboy: Melacca Branch
 
 
-##Find full documenation here:
+## Find full documenation here:
 ### [📄 View Full Documentation](https://docs.google.com/document/d/1Wxw2ekEAkwNPyn7sajcsSqYGrCi-eXx10ZyZQizTWng/edit?usp=sharing)
 
 
